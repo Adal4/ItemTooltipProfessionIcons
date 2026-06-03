@@ -1,4 +1,4 @@
-## Interface: 110207, 50503, 40402, 38000, 20504, 11508
+## Interface: 120005, 50504, 40402, 38001, 20505, 11508
 ## Title: ItemTooltipProfessionIcons
 ## Notes: Displays which professions and quests may use the item via the item's tooltip
 ## Author: Bytespire
